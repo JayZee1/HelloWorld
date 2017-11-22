@@ -6,7 +6,9 @@ namespace HelloWorld
     {
         static void Main() 
         {
-            System.Console.WriteLine("Hello World!");
+            System.Console.WriteLine("Hello Jiri!");
+			System.Console.WriteLine("Jak se máš?);
+
 
             // Keep the console window open in debug mode.
             System.Console.WriteLine("Press any key to exit.");
